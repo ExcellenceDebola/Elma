@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: white;
+    background-size: cover;
+}                        
+nav{
+    
+    background-color: blue;
+    height: 200px;
+    width: 100%;
+}
